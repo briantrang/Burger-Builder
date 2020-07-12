@@ -1,0 +1,13 @@
+.CheckoutSummary {
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+    overflow-y: scroll;
+    
+}
+
+::-webkit-scrollbar {
+    width: 0px;  /* Remove scrollbar space */
+    background: transparent;  /* Optional: just make scrollbar invisible */
+}
